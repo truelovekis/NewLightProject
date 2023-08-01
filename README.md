@@ -39,6 +39,4 @@ JSP + 창작물 사이트
 #### 게시글 좋아요/추천/조회수/신고 기능 구현
 #### 이력서, 자소서 관리 및 다운로드 기능 구현
 #### 커뮤니티(별물결) 페이지 <a href="https://github.com/truelovekis/NewLightProject/wiki" > WIKI 이동</a>
-#### 공지사항 페이지 <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)" >내가 구현한 페이지 - WIKI 이동</a>
-
-
+#### 공지사항 페이지 <a href="https://github.com/truelovekis/NewLightProject/wiki/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-%ED%8E%98%EC%9D%B4%EC%A7%80" >WIKI 이동</a>
