@@ -38,5 +38,5 @@ JSP + 창작물 사이트
 #### 활용 포인트를 통한 회원간의 중고 거래
 #### 게시글 좋아요/추천/조회수/신고 기능 구현
 #### 이력서, 자소서 관리 및 다운로드 기능 구현
-#### 커뮤니티(별물결) 페이지 <a href="https://github.com/truelovekis/NewLightProject/wiki" > WIKI 이동</a>
+#### 커뮤니티(별물결) 페이지 <a href="https://github.com/truelovekis/NewLightProject/wiki/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%ED%8E%98%EC%9D%B4%EC%A7%80" > WIKI 이동</a>
 #### 공지사항 페이지 <a href="https://github.com/truelovekis/NewLightProject/wiki/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-%ED%8E%98%EC%9D%B4%EC%A7%80" >WIKI 이동</a>
