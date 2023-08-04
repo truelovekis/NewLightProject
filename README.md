@@ -17,13 +17,19 @@ JSP + 창작물 사이트
  - 팀원1 : 김병구
  - 팀원2 : 김에스더
  - 팀원3 : 최성진
+ - 
 ### 👩‍💻팀원별 역할 : front-end , back-end
 
 ### ⚙️ 개발 환경
+
 **Framework** : Ajax, MyBatis, Spring Boot, thymeleaf
+
 **개발 도구** : Eclips
+
 **개발 언어** : JAVA , JAVAScript , HTML , CSS
+
 **DataBase** : MySQL
+
 **Devops**: GitHub
 
 
@@ -32,7 +38,7 @@ JSP + 창작물 사이트
 #### ID찾기, PW찾기
 #### 사용자 간 팔로우 기능 구현
 
-<span style="color:red"> red </span>
+
 <span style="background-color:#fff5b1">👩‍💻내가 구현한 페이지 </span>
 #### 커뮤니티(별물결) 페이지 <a href="https://github.com/truelovekis/NewLightProject/wiki/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%ED%8E%98%EC%9D%B4%EC%A7%80" > 코드보기</a>
 #### 공지사항 페이지 <a href="https://github.com/truelovekis/NewLightProject/wiki/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-%ED%8E%98%EC%9D%B4%EC%A7%80" >코드보기</a>
