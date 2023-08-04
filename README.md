@@ -13,10 +13,10 @@ JSP + 창작물 사이트
 * 23.03.20일 - 22.04.27일
 
 ### 🧑‍🤝‍🧑 맴버구성
- - 팀장 : 최예은 - 로그인, 회원가입, ID찾기, PW찾기, 마이 페이지,메인 페이지, 통합 및 형상관리, PPT제작, 발표
- - 팀원1 : 김병구 - 메인 페이지, 메인 CSS
- - 팀원2 : 김에스더 - 1대1 문의 게시판(CRUD), 공지사항 게시판(CRUD)
- - 팀원3 : 최성진 - 1대1 문의 게시판(CRUD), 공지사항 게시판(CRUD)
+ - 팀장 : 최예은
+ - 팀원1 : 김병구
+ - 팀원2 : 김에스더
+ - 팀원3 : 최성진
 ### 👩‍💻팀원별 역할 : front-end , back-end
 
 ### ⚙️ 개발 환경
@@ -27,16 +27,12 @@ JSP + 창작물 사이트
 **Devops**: GitHub
 
 
-## 📌 주요 기능
-#### 로그인/회원가입 : 모달창 연결 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)" >상세보기 - WIKI 이동</a>
+## 📌 사이트 주요 기능
+#### 로그인/회원가입
+#### ID찾기, PW찾기
+#### 사용자 간 팔로우 기능 구현
 
-#### ID찾기, PW찾기 : SMS API를 사용해 인증번호 확인을 통한 본인확인 후 해당 회원의 정보를 찾을 수 있음
-
-#### 멘토 : 멘티 연결 서비스
-#### 1 : 1 쪽지 기능
-#### 다양한 태그를 활용한 게시글 필터링 기능
-#### 활용 포인트를 통한 회원간의 중고 거래
-#### 게시글 좋아요/추천/조회수/신고 기능 구현
-#### 이력서, 자소서 관리 및 다운로드 기능 구현
-#### 커뮤니티(별물결) 페이지 <a href="https://github.com/truelovekis/NewLightProject/wiki/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%ED%8E%98%EC%9D%B4%EC%A7%80" > WIKI 이동</a>
-#### 공지사항 페이지 <a href="https://github.com/truelovekis/NewLightProject/wiki/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-%ED%8E%98%EC%9D%B4%EC%A7%80" >WIKI 이동</a>
+<span style="color:red"> red </span>
+<span style="background-color:#fff5b1">👩‍💻내가 구현한 페이지 </span>
+#### 커뮤니티(별물결) 페이지 <a href="https://github.com/truelovekis/NewLightProject/wiki/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%ED%8E%98%EC%9D%B4%EC%A7%80" > 코드보기</a>
+#### 공지사항 페이지 <a href="https://github.com/truelovekis/NewLightProject/wiki/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-%ED%8E%98%EC%9D%B4%EC%A7%80" >코드보기</a>
